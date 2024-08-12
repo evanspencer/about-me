@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Evan</h1>
 <h3 align="center">A passionate data nerd</h3>
 
-- 🔭 I’m currently working on **data science projects**
+- 🔭 I’m currently working on **anime recommendation app and propensity model for customer segmentation**
 
-- 🌱 I’m currently learning **neural networks and big data management.**
+- 🌱 I’m currently learning **data engineering and casual inference**
 
 - 📝 I regularly write articles on [evanspencer.github.io](evanspencer.github.io)
 
-- 💬 Ask me about **Data science**
+- 💬 Ask me about **Data science + ML **
 
 - 📫 How to reach me **ebehrns@uci.edu**
 
